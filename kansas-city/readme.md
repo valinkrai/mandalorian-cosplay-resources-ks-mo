@@ -1,8 +1,6 @@
-KC Library:
-- Kids Maker Lab Only
 
-KCK Library:
-- cookie cutters
+# Libraries
+Libraries are excellent resources for cosplayers, and frequently provide cost effective access for important tools such as sewing machines, resin printers and laser cutters.
 
 JOCO Library:
 - Maker Space - https://www.jocolibrary.org/makerspace
@@ -45,3 +43,19 @@ Olathe - https://www.olathelibrary.org/services/makerspace
         - Soldering Gear
         - Heat press 
         - Small vacuform
+
+Material Sources
+- Metal
+    - Metal By the Foot
+        - Sells bulk metal sheet in desired sizes, tends to be cost effective compared to big box stores.
+- Sintra
+    - Regal Plastic Supply Company
+- 3D Printing
+    - Microcenter
+        - 3D Printers
+        - Filiment
+- Fabric
+    - TODO: Better than Joann options
+
+- Leatherworking
+    - Tandy Leather Independance
